@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 merge with fast forward.
 merge with no fast forward.
 merge with no fast forward really, last time we forget the --no-ff arg.
+this is in testgit1.
